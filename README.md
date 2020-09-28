@@ -63,19 +63,19 @@ Research suggests that other factors such as smoking, being exposed to chemicals
 
 -> SOME METHODS TO HELP CANCER PATIENTS TO COPING UP WITH THE DEPRESSION
 
-1. Exercise. Regular exercise can be as effective at treating depression as medication. Not only does exercise boost serotonin, endorphins, and other feel-good brain chemicals, it triggers the growth of new brain cells and connections, just like antidepressants do. Best of all, you don’t have to train for a marathon in order to reap the benefits. Even a half-hour daily walk can make a big difference. For maximum results, aim for 30 to 60 minutes of aerobic activity on most days.
+1. Exercise.> Regular exercise can be as effective at treating depression as medication. Not only does exercise boost serotonin, endorphins, and other feel-good brain chemicals, it triggers the growth of new brain cells and connections, just like antidepressants do. Best of all, you don’t have to train for a marathon in order to reap the benefits. Even a half-hour daily walk can make a big difference. For maximum results, aim for 30 to 60 minutes of aerobic activity on most days.
 
-2. Social support. Strong social networks reduce isolation, a key risk factor for depression. Keep in regular contact with friends and family, or consider joining a class or group. Volunteering is a wonderful way to get social support and help others while also helping yourself.
+2. Social support.> Strong social networks reduce isolation, a key risk factor for depression. Keep in regular contact with friends and family, or consider joining a class or group. Volunteering is a wonderful way to get social support and help others while also helping yourself.
 
-3. Nutrition. Eating well is important for both your physical and mental health. Eating small, well-balanced meals throughout the day will help you keep your energy up and minimize mood swings. While you may be drawn to sugary foods for the quick boost they provide, complex carbohydrates are a better choice. They’ll get you going without the all-too-soon sugar crash.
+3. Nutrition.> Eating well is important for both your physical and mental health. Eating small, well-balanced meals throughout the day will help you keep your energy up and minimize mood swings. While you may be drawn to sugary foods for the quick boost they provide, complex carbohydrates are a better choice. They’ll get you going without the all-too-soon sugar crash.
 
-4. Sleep. Sleep has a strong effect on mood. When you don’t get enough sleep, your depression symptoms will be worse. Sleep deprivation exacerbates irritability, moodiness, sadness, and fatigue. Make sure you’re getting enough sleep each night. Very few people do well on less than seven hours a night. Aim for somewhere between seven to nine hours each night.
+4. Sleep.> Sleep has a strong effect on mood. When you don’t get enough sleep, your depression symptoms will be worse. Sleep deprivation exacerbates irritability, moodiness, sadness, and fatigue. Make sure you’re getting enough sleep each night. Very few people do well on less than seven hours a night. Aim for somewhere between seven to nine hours each night.
 
-5. Stress reduction. Make changes in your life to help manage and reduce stress. Too much stress exacerbates depression and puts you at risk for future depression. Take the aspects of your life that stress you out, such as work overload or unsupportive relationships, and find ways to minimize their impact.
+5. Stress reduction.> Make changes in your life to help manage and reduce stress. Too much stress exacerbates depression and puts you at risk for future depression. Take the aspects of your life that stress you out, such as work overload or unsupportive relationships, and find ways to minimize their impact.
 
-6. Relaxation techniques. As well as helping to relieve symptoms of depression, relaxation techniques may also reduce stress and boost feelings of joy and well-being. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
+6. Relaxation techniques.> As well as helping to relieve symptoms of depression, relaxation techniques may also reduce stress and boost feelings of joy and well-being. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
 
-7. Acupuncture. Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional.
+7. Acupuncture.> Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional.
 
 
 
