@@ -2,7 +2,7 @@ PROJECT NAME : YODHA-fighting_breast_cancer
 
 *LOGO OF OUR APP*
 
-https://user-images.githubusercontent.com/54579774/94549470-e7e37100-026f-11eb-9d71-0606b3ee2c25.png
+![logo](https://user-images.githubusercontent.com/54579774/94549470-e7e37100-026f-11eb-9d71-0606b3ee2c25.png)
 
 This app will be available for all under three categories:
  1. Not a breast cancer patient
