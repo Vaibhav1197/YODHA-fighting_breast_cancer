@@ -1,5 +1,9 @@
 PROJECT NAME : YODHA-fighting_breast_cancer
 
+*LOGO OF OUR APP*
+
+![logo](https://user-images.githubusercontent.com/54579774/94549470-e7e37100-026f-11eb-9d71-0606b3ee2c25.png)
+
 This app will be available for all under three categories:
  1. Not a breast cancer patient
  2. Breast cancer patient
@@ -76,6 +80,7 @@ Research suggests that other factors such as smoking, being exposed to chemicals
 6. Relaxation techniques.> As well as helping to relieve symptoms of depression, relaxation techniques may also reduce stress and boost feelings of joy and well-being. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
 
 7. Acupuncture.> Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional.
+
 
 
 
