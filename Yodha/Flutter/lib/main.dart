@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
       systemNavigationBarColor: Colors.white, //bottom bar color
       systemNavigationBarIconBrightness: Brightness.dark, //bottom bar icons
     ));
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: theme,
