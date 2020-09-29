@@ -6,3 +6,5 @@ const TextStyle title = TextStyle(
     color: Color(0xffFFB9BF),
     fontSize: 24,
     shadows: [Shadow(color: Colors.pink, blurRadius: 4)]);
+
+const primaryColor = Color(0xff973961);
