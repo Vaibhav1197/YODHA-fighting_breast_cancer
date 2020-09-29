@@ -78,6 +78,10 @@ Research suggests that other factors such as smoking, being exposed to chemicals
 7. Acupuncture.> Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional.
 
 
+LOGO OF OUR APP:
+
+logomaker.thehoth.com/?project=38777154
+
 
  
 
