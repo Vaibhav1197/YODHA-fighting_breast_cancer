@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ne_proj/const.dart';
+import 'package:ne_proj/screens/category_cscreen.dart';
+import 'package:ne_proj/widgets/app_logo.dart';
+import 'package:ne_proj/widgets/next_button.dart';
 import 'package:ne_proj/widgets/spacing.dart';
 
 class LaunchScreen extends StatefulWidget {
@@ -23,13 +26,7 @@ class _LaunchScreenState extends State<LaunchScreen> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               //app logo
-              Center(
-                child: Image.asset(
-                  'images/logo.png',
-                  height: 200,
-                  width: 216,
-                ),
-              ),
+              AppLogo(),
               WidgetSpacing(
                 top: 40,
               ),
@@ -37,8 +34,9 @@ class _LaunchScreenState extends State<LaunchScreen> {
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 20.0),
                 child: TextField(
-                  style: primary.copyWith(fontSize: 1),
+                  style: primary.copyWith(fontSize: 16),
                   decoration: InputDecoration(
+                      fillColor: Colors.red,
                       labelText: 'Enter Email',
                       labelStyle: primary.copyWith(fontSize: 14),
                       border: InputBorder.none,
@@ -103,21 +101,13 @@ class _LaunchScreenState extends State<LaunchScreen> {
               ),
               WidgetSpacing(top: 40),
               //Next Button
-              GestureDetector(
-                  onTap: () {},
-                  child: Container(
-                    padding: EdgeInsets.all(4),
-                    width: 120,
-                    child: Center(
-                      child: Text(
-                        'Next',
-                        style: primary.copyWith(fontSize: 24),
-                      ),
-                    ),
-                    decoration: BoxDecoration(
-                        border: Border.all(color: Colors.white, width: 2),
-                        borderRadius: BorderRadius.circular(40)),
-                  ))
+              NextButton(onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => CategoryScreen(),
+                    ));
+              })
             ],
           ),
         ),
