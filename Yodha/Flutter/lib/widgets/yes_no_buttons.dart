@@ -11,7 +11,6 @@ class YesNoButtons extends StatefulWidget {
 }
 
 class _YesNoButtonsState extends State<YesNoButtons> {
-  bool isYes = false, isNo = false;
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;

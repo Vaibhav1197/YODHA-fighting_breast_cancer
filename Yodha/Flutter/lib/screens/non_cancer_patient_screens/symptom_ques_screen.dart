@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ne_proj/const.dart';
+import 'package:ne_proj/screens/non_cancer_patient_screens/result_screen.dart';
 import 'package:ne_proj/widgets/app_logo.dart';
 import 'package:ne_proj/widgets/next_button.dart';
 import 'package:ne_proj/widgets/spacing.dart';
@@ -53,9 +54,13 @@ class _QuestionScreenState extends State<QuestionScreen> {
               onTap: () {
                 if (i < questions.length - 1) {
                   i++;
-                  isYes = false;
-                  isNo = false;
                   setState(() {});
+                } else {
+                  Navigator.pushReplacement(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => ResultScreen(),
+                      ));
                 }
               },
             )
