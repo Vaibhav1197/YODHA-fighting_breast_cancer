@@ -168,3 +168,32 @@ List<Map<String, String>> chemoFAQ = [
         "If you feel up to it and want to, then sure, go ahead. Chemotherapy can damage egg and sperms cells so it’s important to use contraceptives to avoid getting pregnant. If you’re taking oral contraceptives, you need to speak to your doctor to determine if they will still work while undergoing chemotherapy."
   },
 ];
+
+List<Map<String, String>> events = [
+  {
+    "title": "Coping with Metastatic Triple Negative Breast Cancer",
+    "date": "14/10",
+    "link": "https://www.cancercare.org/connect_workshops?register=838"
+  },
+  {
+    "title": "Love Conquers All! Virtual Fashion show and Fundraising event",
+    "date": "25/10",
+    "link": "https://www.facebook.com/feelbeautifultoday"
+  },
+  {
+    "title": "VIRTUAL MBC IMPACT SERIES | MBC Day: Quality of Life Issues",
+    "date": "13/10",
+    "link": "https://whova.com/portal/registration/mcpsp_202009/"
+  },
+  {
+    "title":
+        "2020 EMBRACE Metastatic Breast Cancer Virtual Forum Series | Multiple Sessions",
+    "date": "17/10",
+    "link": "https://dfci.zoom.us/webinar/register/WN_RSY_c8sISjK7GvukPBpQZA"
+  },
+  {
+    "title": "VIRTUAL MBC IMPACT SERIES | Young Researchers and Immunology",
+    "date": "27/10",
+    "link": "https://whova.com/portal/registration/mcpsp_202009/"
+  },
+];
