@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ne_proj/const.dart';
 import 'package:ne_proj/widgets/app_bar.dart';
 import 'package:ne_proj/widgets/base_container.dart';
