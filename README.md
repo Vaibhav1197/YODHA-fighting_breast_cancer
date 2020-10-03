@@ -86,7 +86,7 @@ SOME METHODS TO HELP CANCER PATIENTS TO COPING UP WITH THE DEPRESSION:
 
 6. Relaxation techniques: As well as helping to relieve symptoms of depression, relaxation techniques may also reduce stress and boost feelings of joy and well-being. Try yoga, deep breathing, progressive muscle relaxation, or meditation.
 
-7. Acupuncture: Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional.
+7. Acupuncture: Acupuncture, the technique of using fine needles on specific points on the body for therapeutic purposes, is increasingly being investigated as a treatment for depression, with some research studies showing promising results. If you decide to try acupuncture, make sure that you find a licensed qualified professional. 
 
 
 
