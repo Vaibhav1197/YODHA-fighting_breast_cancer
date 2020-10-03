@@ -101,4 +101,70 @@ List<Map<String, String>> therapyData = [
   },
 ];
 
-List<Map<String, String>> faq = [];
+List<Map<String, String>> chemoFAQ = [
+  {
+    "ques": "Why do you need chemotherapy treatment more than once?",
+    "ans":
+        "Not all cancer cells will be killed during the first round of chemotherapy, so patients may have to undergo several rounds until all the cancer cells have been destroyed."
+  },
+  {
+    "ques": "How is chemotherapy administered?",
+    "ans":
+        "Chemotherapy can either be taken orally (by mouth in pill form), intravenously (directly into a vein), subcutaneously (injection into the skin) and intrathecally (into the cerebrospinal fluid)."
+  },
+  {
+    "ques": "Where will I have chemotherapy treatment?",
+    "ans":
+        "If you have an oral form of chemotherapy, you can take this at home. All other forms (or combinations) are usually administered at the hospital or a mobile chemotherapy clinic."
+  },
+  {
+    "ques": "Will I need to take other drugs?",
+    "ans":
+        "Some people may need to take steroids to help fight infections, while others may be prescribed drugs to help with side effects associated with chemotherapy such as anti-emetic drugs (anti-sickness)."
+  },
+  {
+    "ques": "How will chemotherapy make me feel?",
+    "ans":
+        "Different people have different reactions to chemotherapy, and the reaction will also depend on the drug you’re taking and the dosage. Some people may feel feverish and flu-like, other may suffer from nausea, vomiting, mouth ulcers, fatigue, brain fog, and skin and nail changes. It’s important to speak to your healthcare providers about any side effects you’re experiencing."
+  },
+  {
+    "ques": "How can I look after myself when going through chemotherapy?",
+    "ans":
+        "Getting plenty of sleep, not overdoing things, eating well, drinking plenty of water and exercising gently will all help you get through chemotherapy."
+  },
+  {
+    "ques": "Am I more at risk of infection when going through chemotherapy?",
+    "ans":
+        "Chemotherapy kills white blood cells which help to fight off viruses and infections. During chemotherapy, you should stay away from people who are ill, avoid large crowds, take care to regularly wash your hands — particularly after touching shared items or surfaces, or dealing with animals or raw meat."
+  },
+  {
+    "ques": "Can I drink alcohol during chemotherapy treatment?",
+    "ans":
+        "In most cases, moderate consumption of alcohol is fine, unless you have a problem with liver function. Your healthcare team will advise you if you shouldn’t consume any alcohol."
+  },
+  {
+    "ques": "Can I smoke during chemotherapy treatment?",
+    "ans":
+        "Quitting smoking or at least cutting down on smoking will be beneficial to your overall health. However, most doctors appreciate that quitting smoking while undergoing cancer treatment can be very difficult and will be willing to help you."
+  },
+  {
+    "ques": "Can I exercise during chemotherapy treatment?",
+    "ans":
+        "Exercise has been proven to be beneficial to cancer patients going through chemotherapy, but there may be days when you feel too ill or fatigued. Listen to your body and take things slowly, building up your strength and stamina over time."
+  },
+  {
+    "ques": "Can I continue working during chemotherapy treatment?",
+    "ans":
+        "If you feel up to it, it’s perfectly OK to continue working. However, many find they have vastly depleted energy levels and are incapable of working the same amount of hours. In addition, you shouldn’t return to work if you work in an environment that increases your risk of infection."
+  },
+  {
+    "ques": "Can I continue to see friends and family during chemotherapy?",
+    "ans":
+        "Friends and family provide a vital support network, so it’s advisable to see them as often as you want. They will also be a welcome distraction to the chemotherapy. You may not feel up to attending every social event you’re invited to, so take things day by day."
+  },
+  {
+    "ques": "Can I have sex during chemotherapy?",
+    "ans":
+        "If you feel up to it and want to, then sure, go ahead. Chemotherapy can damage egg and sperms cells so it’s important to use contraceptives to avoid getting pregnant. If you’re taking oral contraceptives, you need to speak to your doctor to determine if they will still work while undergoing chemotherapy."
+  },
+];

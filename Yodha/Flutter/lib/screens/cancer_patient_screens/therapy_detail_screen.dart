@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ne_proj/const.dart';
 import 'package:ne_proj/data.dart';
+import 'package:ne_proj/screens/cancer_patient_screens/faq_screen.dart';
 import 'package:ne_proj/widgets/app_bar.dart';
 import 'package:ne_proj/widgets/base_container.dart';
 import 'package:ne_proj/widgets/call_button.dart';
@@ -83,8 +84,19 @@ class _TherapyDetailScreenState extends State<TherapyDetailScreen> {
               WidgetSpacing(
                 top: 20,
               ),
-              BaseContainer(
-                title: 'FAQ\'s regarding ${widget.heading}',
+              GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => FAQScreen(
+                          faq: chemoFAQ,
+                        ),
+                      ));
+                },
+                child: BaseContainer(
+                  title: 'FAQ\'s regarding ${widget.heading}',
+                ),
               ),
               WidgetSpacing(
                 top: 20,
