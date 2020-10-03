@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 
 const TextStyle primary = TextStyle(fontSize: 24, color: Colors.white);
 
+const TextStyle bottomnavybarstyle = TextStyle(
+    fontSize: 14, color: Color(0xff973961), fontWeight: FontWeight.bold);
+
 const TextStyle title = TextStyle(
     color: Color(0xffFFB9BF),
     fontSize: 24,

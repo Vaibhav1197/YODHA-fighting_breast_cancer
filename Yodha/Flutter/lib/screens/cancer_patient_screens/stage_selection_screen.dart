@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:ne_proj/const.dart';
+import 'package:ne_proj/screens/cancer_patient_screens/cancer_patient_dashboard.dart';
 import 'package:ne_proj/widgets/app_logo.dart';
 import 'package:ne_proj/widgets/next_button.dart';
 import 'package:ne_proj/widgets/spacing.dart';
@@ -58,7 +59,13 @@ class _SelectStageState extends State<SelectStage> {
               ),
               WidgetSpacing(top: 50),
               //Next Button
-              NextButton(onTap: () {})
+              NextButton(onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => CancerPatientDashBoard(),
+                    ));
+              })
             ],
           ),
         ),
