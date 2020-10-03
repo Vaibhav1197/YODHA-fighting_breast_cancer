@@ -64,9 +64,41 @@ List<Map<String, String>> stories = [
   },
   {
     "stories":
-        "The nurses told me that I have some of the best angels that helped me find this cancer so early. Most women don't detect IBC until stage 4.",
+        "Knowing I still had the chance to have another child gave me the strength I needed to get through chemo and radiation.",
     "name": "Jennifer Diagnosed at 31",
     "link":
-        "https://www.youngsurvival.org/blog/survivor-stories/survivor/jennifer-diagnosed-at-31",
+        "https://www.youngsurvival.org/blog/survivor-stories/survivor/lauren",
   },
 ];
+
+List<Map<String, String>> therapyData = [
+  {
+    "title": "Chemotherapy",
+    "headline": "Using special medicines to shrink or kill the cancer cells.",
+    "sideEffects":
+        "Certain chemotherapy drugs may cause potential side effects like nausea, vomiting, fatigue, nerve damage, sore mouth, diarrhea, constipation and decreased blood counts.",
+  },
+  {
+    "title": "Surgery",
+    "headline":
+        "Surgical options include a mastectomy, which removes the whole breast, and a lumpectomy, or breast-conserving surgery that removes only the tumor and the tissues around it.",
+    "sideEffects":
+        "Surgical procedures for breast cancer may cause short-term pain or discomfort in the treated area. Also, the muscles of the arm may feel weak, and the skin in the breast area may feel tight. Surgery involving the lymph nodes may also cause swelling in the arm, a condition known as lymphedema.",
+  },
+  {
+    "title": "Radiation Therapy",
+    "headline":
+        "This conventional technique uses targeted, high-energy radioactive waves to destroy tumors.",
+    "sideEffects":
+        "Many breast cancer patients who undergo radiation therapy experience skin irritation and breast pain. These conditions usually begin within a few weeks of starting treatment and go away on their own within six months after treatment ends. For some patients, however, these symptoms may not develop until several months or years after treatment. Another common radiation-related side effect is fatigue, especially in the later weeks of treatment and for some time afterward.",
+  },
+  {
+    "title": "Hormonal Therapy",
+    "headline":
+        "Hormone therapies are the prescription drugs used most often to treat hot flashes and genitourinary syndrome of menopause (GSM), which includes vaginal dryness, after menopause.",
+    "sideEffects":
+        "Some hormone therapies for breast cancer may cause a wide range of side effects, such as hot flashes; vaginal discharge, dryness and irritation; irregular periods; decreased sex drive; and mood changes. Aromatase inhibitors may also cause joint and muscle pain, as well as an increased risk of bone thinning (osteoporosis).",
+  },
+];
+
+List<Map<String, String>> faq = [];
