@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ne_proj/const.dart';
-import 'package:ne_proj/screens/cancer_patient_screens/events_screen.dart';
 import 'package:ne_proj/screens/cancer_patient_screens/stories_screen.dart';
 import 'package:ne_proj/widgets/app_bar.dart';
 import 'package:ne_proj/widgets/bottom_nav_bar.dart';
 
+import '../events_screen.dart';
 import 'cancer_patient_home_screen.dart';
 import 'info_screen.dart';
 

@@ -3,7 +3,7 @@ import 'package:ne_proj/data.dart';
 import 'package:ne_proj/widgets/base_container.dart';
 import 'package:ne_proj/widgets/spacing.dart';
 
-import '../../const.dart';
+import '../const.dart';
 
 class EventsScreen extends StatefulWidget {
   @override

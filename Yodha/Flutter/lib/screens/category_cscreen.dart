@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ne_proj/screens/cancer_patient_screens/stage_selection_screen.dart';
 import 'package:ne_proj/screens/non_cancer_patient_screens/symptom_ques_screen.dart';
+import 'package:ne_proj/screens/survivor_screens/survivor_stage_selection_screen.dart';
 import 'package:ne_proj/widgets/app_logo.dart';
 import 'package:ne_proj/widgets/base_container.dart';
 import 'package:ne_proj/widgets/spacing.dart';
@@ -56,7 +57,13 @@ class _CategoryScreenState extends State<CategoryScreen> {
               bottom: 30,
             ),
             GestureDetector(
-              onTap: () {},
+              onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => SurvivorStageSelectionScreen(),
+                    ));
+              },
               child: BaseContainer(
                 title: 'I\'m a breast cancer Survivor',
               ),
